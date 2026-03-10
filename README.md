@@ -23,12 +23,12 @@ La evaluación del taller se divide en dos secciones principales:
 ## Detalle de las Secciones
 
 ### 1. Ejecución Técnica (1.0 punto)
-El objetivo es evidenciar los retos del testing y la depuración directa sobre el hardware. Los pasos a seguir son:
+Los pasos a seguir son:
 *   **Plantear** un patrón de movimiento original para el cubo de LEDs.
 *   **Modificar** el código fuente aplicable al PSoC.
 *   **Notificar** al evaluador cuando el grupo esté listo para programar el dispositivo.
-*   **Verificación:** Se comprobará que el patrón ejecutado coincida con el propuesto.
-*   **Sistema de Intentos:** 
+*   **Comprobar** que el patrón ejecutado coincida con el propuesto.
+  **Sistema de Intentos:** 
     *   Se permiten hasta **5 intentos** de programación.
     *   Cada intento fallido resta **0.2** de la nota de esta sección.
     *   *Ejemplo: Si funciona al 3er intento, la nota de esta sección será 0.6.*
@@ -37,5 +37,5 @@ El objetivo es evidenciar los retos del testing y la depuración directa sobre e
 Debe entregarse un documento que contenga los siguientes puntos:
 
 *   **Descripción del patrón propuesto:** Explicación breve del diseño visual que se espera generar.
-*   **Implementación:** Explicación técnica de cómo se modificó el código base y la lógica utilizada para lograr el patrón.
+*   **Implementación:** Explicación técnica breve de cómo se modificó el código base y la lógica utilizada para lograr el patrón.
 *   **Análisis comparativo:** Un breve análisis sobre las diferencias entre la **programación tradicional** y la **programación de sistemas embebidos**, enfocándose especialmente en la experiencia de depuración y testing sobre hardware real observada en el taller.
