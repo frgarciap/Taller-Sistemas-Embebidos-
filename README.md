@@ -31,7 +31,7 @@ La evaluación del taller se divide en dos secciones principales:
 Los pasos a seguir son:
 *   **Plantear** un patrón de movimiento original para el cubo de LEDs.
 *   **Modificar** el código fuente aplicable al PSoC.
-*   **Notificar** al evaluador cuando el grupo esté listo para programar el dispositivo.
+*   **Notificar** al evaluador cuando el grupo esté listo para programar el dispositivo. (frgarciap@udistrital.edu.co)
 *   **Comprobar** que el patrón ejecutado coincida con el propuesto.
   **Sistema de Intentos:** 
     *   Se permiten hasta **5 intentos** de programación.
